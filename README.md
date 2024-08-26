@@ -8,3 +8,5 @@ Por lo tanto, la idea del código es intentar mejorar esta solución, llegando a
 En la solución ejemplo, solution es igual a [0, 1, 2, ….], indicando que se arranca por el punto 0, luego se va a 1, luego a 2, etc. Otra solución posible es [0, 10, 11, …]: es decir, luego de arrancar en 0 se visita al punto 10, luego al 11, y así.
 
 IMPORTANTE: el objetivo de este ejercicio no es llegar a la MEJOR solución, sino a una solución que tenga sentido y mejore lo que exista. No se utilizan librerías de optimización para resolverlo, sino armar una solución que nazca de operaciones lógicas.
+
+La solucion está orientada a una optimización combinatoria de N caminos posibles.
